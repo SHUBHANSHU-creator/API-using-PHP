@@ -10,3 +10,9 @@ api to fetch data from database
 required details according to pdf given:
 ![image](https://user-images.githubusercontent.com/74784319/133082863-2b8585ca-07a7-42c1-9139-dbcbd3b117fe.png)
 
+
+Another example:
+![image](https://user-images.githubusercontent.com/74784319/133083463-92dd70f7-ae17-4a5d-acf8-3ce1bacdd9e3.png)
+
+![image](https://user-images.githubusercontent.com/74784319/133083528-55992001-1b69-4abf-b6a7-7b3452519ef0.png)
+
